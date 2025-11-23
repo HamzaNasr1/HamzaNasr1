@@ -3,8 +3,7 @@
 Bienvenue sur le dépôt de mon **portfolio GitHub Pages**.  
 Ce site présente mon profil, mon parcours académique et professionnel, ainsi qu’une sélection de mes projets en **Data Science / IA** et **Développement Web**.
 
-🌐 **Portfolio en ligne :** https://hamzanasr1.github.io/  
-(ou l’URL GitHub Pages associée à ce repo)
+🌐 **Portfolio en ligne :** https://hamzanasr1.github.io/portfolio  
 
 ---
 
