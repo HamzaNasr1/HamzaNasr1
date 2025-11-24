@@ -40,4 +40,14 @@ Je conçois et développe des solutions ayant un **impact réel**, qu’il s’a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ### 📊 GitHub Professional Stats
+## 📊 Professional GitHub Metrics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaNasr1&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaNasr1&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaNasr1&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HamzaNasr1&theme=onestar&no-frame=true&no-bg=true&margin-w=5)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HamzaNasr1&style=flat&color=blue&label=Profile+Views)
