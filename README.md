@@ -37,3 +37,5 @@ Je conçois et développe des solutions ayant un **impact réel**, qu’il s’a
 - **LinkedIn :** https://www.linkedin.com/in/hamza-nasr-59ba50257/  
 - **GitHub :** https://github.com/HamzaNasr1  
 - **Localisation :** Limoges, France  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
