@@ -38,8 +38,8 @@ Je conçois et développe des solutions ayant un **impact réel**, qu’il s’a
 - **GitHub :** https://github.com/HamzaNasr1  
 - **Localisation :** Limoges, France  
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-### 📊 GitHub Professional Stats
+
+
 ## 📊 Professional GitHub Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaNasr1&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true)
